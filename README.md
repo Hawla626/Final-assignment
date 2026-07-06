@@ -1,2 +1,2 @@
-This is my final assignment.
-its a jupiter notebook file that tested my knowledge on writing python in jupiter notebook
+This is my final coursera project for data science assignment.
+It contains the downloaded jupyter notebooks I worked on through my final project.
